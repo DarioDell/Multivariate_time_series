@@ -1,7 +1,6 @@
 # Multivariate_time_series
 
-Set of time series of the economic field analyzed simultaneously, through the implementation of a VAR model
-<br>
+Set of time series of the economic field analyzed simultaneously, through the implementation of a VAR model.<br>
 Time series is one of the fundamental mainstay in the field of Machine Learning and data analysis. This is
 especially relevant in data-based decision making, as it helps us to predict and anticipate future events. By understanding the patterns and trends in
 time series data, we can make more informed and strategic decisions. 
