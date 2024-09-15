@@ -21,7 +21,6 @@ to some data from the past, for which these data will be predicted and estimated
 using the model and in this way knowing what it returns as a result.
 
 ✓ Carry out an evaluation and validation of the model.
-
 As metric measurements, to know the error that is committed in the
 forecasts, the following will be used: The mean absolute error (MAE) and the root error
 root mean square (RMSE).
