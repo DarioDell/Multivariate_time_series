@@ -1,25 +1,25 @@
 The steps to follow for the complete analysis:
-<br>
+
 ✓ Exploratory data analysis (EDA)
-<br>
+
 ✓ Split the series into training and test sets. A reservation will be made
 small portion of the data set, and then check whether the forecasts
 resemble (how close or far they are) the actual data.
-<br>
+
 ✓ Stationarity test. For which the Dickey-Fuller test will be carried out
 increased.
-<br>
+
 ✓ Build a VAR model
-<br>
+
 ✓ Granger Causality. With the Granger causality test it will be possible to
 detect if there is a correlation between all the components of the model.
-<br>
+
 ✓ Model diagnosis. Where the residues of this will be studied.
-<br>
+
 ✓ Make forecasts using the chosen model. The model will learn based
 to some data from the past, for which these data will be predicted and estimated
 using the model and in this way knowing what it returns as a result.
-<br>
+
 ✓ Carry out an evaluation and validation of the model.
 <br>
 As metric measurements, to know the error that is committed in the
