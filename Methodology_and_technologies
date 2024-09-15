@@ -1,0 +1,47 @@
+The steps to follow for the complete analysis:
+<br>
+✓ Exploratory data analysis (EDA)
+<br>
+✓ Split the series into training and test sets. A reservation will be made
+small portion of the data set, and then check whether the forecasts
+resemble (how close or far they are) the actual data.
+<br>
+✓ Stationarity test. For which the Dickey-Fuller test will be carried out
+increased.
+<br>
+✓ Build a VAR model
+<br>
+✓ Granger Causality. With the Granger causality test it will be possible to
+detect if there is a correlation between all the components of the model.
+<br>
+✓ Model diagnosis. Where the residues of this will be studied.
+<br>
+✓ Make forecasts using the chosen model. The model will learn based
+to some data from the past, for which these data will be predicted and estimated
+using the model and in this way knowing what it returns as a result.
+<br>
+✓ Carry out an evaluation and validation of the model.
+<br>
+As metric measurements, to know the error that is committed in the
+forecasts, the following will be used: The mean absolute error (MAE) and the root error
+root mean square (RMSE).
+<br>
+<br>
+<br>
+The project notebook will be developed with the Python programming language,
+which offers powerful libraries and frameworks very useful in data science and
+machine learning. 
+<br>
+The computing environment of the notebook will be Google
+Collaboratory, a cloud platform provided by Google that allows you to write and
+run Python code in a web-based environment. Apart from storing in the
+cloud, Google Colab has many of the Python libraries pre-installed and provides
+an interactive environment.
+<br>
+The libraries that will be used during the project, the following stand out:
+• pandas
+• numpy
+• matplotlib.pyplot
+• seaborn
+• sklearn-metrics
+• statsmodels
